@@ -1,0 +1,64 @@
+[
+  {
+    "users": [
+      {
+        "id": 1,
+        "name": "khaled mahmoud",
+        "email": "khaled.ma805@gmail.com",
+        "options": ["edit", "delete"]
+      },
+      {
+        "id": 2,
+        "name": "khaled sarhan",
+        "email": "khaled311@gmail.com",
+        "options": ["edit", "delete"]
+      },
+      {
+        "id": 3,
+        "name": "bassem elsisy",
+        "email": "bassem@gmail.com",
+        "options": ["edit", "delete"]
+      }
+    ],
+    "massages": [
+      {
+        "id": 1,
+        "subject": "Applying for Frontend developer position",
+        "massage": "Hi there, how are you?...",
+        "options": ["show", "delete"]
+      },
+      {
+        "id": 2,
+        "subject": "Applying for react native developer position",
+        "massage": "Hi there, how are you? I hope you do well,...",
+        "options": ["show", "delete"]
+      },
+      {
+        "id": 3,
+        "subject": "Applying for ui developer position",
+        "massage": "Hi there...",
+        "options": ["show", "delete"]
+      }
+    ],
+    "khaled": [
+      {
+        "id": 1,
+        "any": "Applying for Frontend developer position",
+        "anyh2": "Hi there, how are you?...",
+        "options": ["delete", "delete"]
+      },
+      {
+        "id": 2,
+        "any": "Applying for react native developer position",
+        "anyh2": "Hi there, how are you? I hope you do well,...",
+        "options": ["show", "delete"]
+      },
+      {
+        "id": 3,
+        "any": "Applying for ui developer position",
+        "anyh2": "Hi there...",
+        "options": ["show", "delete"]
+      }
+    ]
+  }
+]
