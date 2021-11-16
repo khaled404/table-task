@@ -39,26 +39,6 @@
         "massage": "Hi there...",
         "options": ["show", "delete"]
       }
-    ],
-    "khaled": [
-      {
-        "id": 1,
-        "any": "Applying for Frontend developer position",
-        "anyh2": "Hi there, how are you?...",
-        "options": ["delete", "delete"]
-      },
-      {
-        "id": 2,
-        "any": "Applying for react native developer position",
-        "anyh2": "Hi there, how are you? I hope you do well,...",
-        "options": ["show", "delete"]
-      },
-      {
-        "id": 3,
-        "any": "Applying for ui developer position",
-        "anyh2": "Hi there...",
-        "options": ["show", "delete"]
-      }
     ]
   }
 ]
